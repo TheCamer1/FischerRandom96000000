@@ -1,0 +1,80 @@
+Equal Positions
+0.0: 4q2N/1rPkPp1b/R3p2p/Pp1nP3/1RPp1p1B/1nb1rB2/PPQ1PKpp/3N4 w - - 0 1 (depth 31) (equal endgame, no repetition)
++0.1: QR4Nn/1PBb3r/P2P1P2/2KR3p/PpBPppqp/bP1p3p/4pP2/Nr4kn w - - 0 1 (depth 30)
++0.3: 2n3qN/1QRpp1PP/r4p1p/2R2p1p/1KP1Pk1r/P2P2bb/NpP1p1nP/B6B w - - 0 1 (depth 30)
++0.7: 1k2b3/1pqnp3/1Q1RPrB1/3rppBP/1p2PPPp/1Nnp1R1P/Pb1p3P/4N1K1 w - - 0 1 (depth 48)
++0.7: 1b1NK1R1/2P1p3/P1B1p1N1/Rppp2B1/q3PPP1/P2rPrPb/1pnk1pp1/Q5n1 w - - 0 1 (depth 30)
++0.8: 6NK/3P2BP/P1pp1N1R/2p1ppn1/1PPqQ1p1/Pn2Pp1p/krB3P1/2rb1Rb1 w - - 0 1 (depth 30)
++1.1: 2B4r/pbP2P1P/1pRb3p/1QNKPPP1/2p2PP1/pN1R1pp1/3pn2q/Bn2r1k1 w - - 0 1 (depth 31)
+-1.4: 1K1RQr1n/2Bp1P1p/3bPpRP/1P1P1N1P/4p1p1/1rP2p2/B1pp1N1P/kb1n2q1 w - - 0 1 (depth 30)
+-1.8: 1Q4NK/6rp/2bPPNqP/p2PB2p/pr1PRPp1/Ppnpb1R1/B1pk2P1/3n4 w - - 0 1  (depth 34)
+-2.1: 3r2Qb/ppp1pBPp/3N2q1/NnP1p1P1/Pk1PPnK1/1b1P2pP/1pR2BR1/6r1 w - - 0 1 (depth 30)
+
+
+
+Found! -0.92
+1b5r/2pK1b2/N2n1pQ1/2p2PPP/2NPpn1P/R2Pp1qp/P1krBPpp/R6B w - - 0 1
+Found! -1.37
+R3n3/2P5/2bP2PR/2KpQ1Bp/P2ppbN1/pNPr2pr/pPqPPnBp/1k6 w - - 0 1
+Found! 0.77
+1b4B1/1PRP1N2/2p1Np1p/p2pnpPp/PP3BRK/4Qr1b/1nkP1PPp/q1r5 w - - 0 1
+Found! 0.22
+2K1Q1r1/Pp1pNPR1/pPP5/1Br2P1n/4p2B/1b1PppP1/kN1bppP1/nR2q3 w - - 0 1
+Found! 1.35
+4N1R1/2P3n1/pKP2pQr/2pPP1bb/1Bp2NBP/RP2pp1P/P2q1p1p/2n3rk w - - 0 1
+Found! -1.46
+qBR2N1R/3PNpbP/QKB4r/2P1nP2/pPP1pp2/1p1p4/pPPkp3/3n2rb w - - 0 1
+Found! -1.37
+n7/P2N3r/r1Ppbp1p/2P2R1K/pPBQn1PP/p2Np2p/1P1pPq2/B1R1b1k1 w - - 0 1
+Found! -0.99
+B1R3K1/rb4Pp/Pp1p1Rp1/1P1n1qNN/1pr4P/1Pp1PpB1/1P1QpbP1/2n3k1 w - - 0 1
+Found! 0.87
+bN3b2/Pp1RP3/p3pp1Q/P1n1p2r/1PPqP2p/kr1PRB2/p2pPK2/B1n2N2 w - - 0 1
+Found! 1.42
+6K1/3pN1p1/QPPPp2P/Rp1P2nP/np2NbrP/pq3R2/bp1pPr1k/2B4B w - - 0 1
+Found! -0.96
+n1rN3B/4p1R1/3PBppr/3Npp1p/PP2P1p1/1PP1Pnqk/KPb2Qp1/2R3b1 w - - 0 1
+Found! -0.76
+2nq3B/6PQ/PPp3Pp/p2r1BNN/1pr1PP1P/p3p3/pb2pPRR/kn1b3K w - - 0 1
+Found! -1.02
+2N1q3/pRQR3b/2p1BpPp/3pPKP1/PB3p2/1Np1r1p1/Pbn1PPkP/1n5r w - - 0 1
+Found! -0.93
+N1B2b2/1R3rPp/1Q2nP1p/1pPPpNR1/pKpPnpP1/4P3/bpP1r1qB/7k w - - 0 1
+Found! -1.49
+8/p1rP2p1/qp1bP1PQ/3b1BR1/Pp1P1RPK/p1N2pN1/pP2P1pn/nrk3B1 w - - 0 1
+Found! -1.33
+2N2rBr/2KR2Qp/1pPNbPnP/pp2pq2/PB6/3P2pp/RPp2nPP/3k3b w - - 0 1
+Found! -0.62
+K3Q3/ppB1PN2/2b2ppb/P5RP/P1rPpPRP/1P1NpBpp/2krn2n/7q w - - 0 1
+Found! -1.27
+1B1Q3K/PPpP1rp1/pbPnB3/N2nP2P/1PR2R2/2pbpp2/N1p2pP1/1r2kq2 w - - 0 1
+Found! -0.89
+BRK2b2/1n2pp1p/pB3P2/4RP1b/pP3NPr/pk1Pr2Q/pP1PpP2/n5Nq w - - 0 1
+Found! -1.32
+2rB2Kb/1p1rpp2/PppPN2N/qp1p4/R2PR1P1/nP2pbP1/2P1PQ2/k3n2B w - - 0 1
+Found! -0.56
+2bn1k1N/2rPq3/1Ppb1Bp1/3n2K1/BQp1pppp/R3NPP1/P1P1pPPR/3r4 w - - 0 1
+Found! -1.21
+2K1R3/2pp1Pb1/P1pQp2p/PbPn2NP/6p1/p1pq4/NPPB1P2/kB1rnr1R w - - 0 1
+Found! -1.26
+nR2r3/b1PpP2K/2NnR1rP/1q2pb2/p2p1pN1/B1pQPpPP/1pBP1P2/6k1 w - - 0 1
+Found! -0.35
+1RqB4/Pr3pp1/KPRNB3/p3pP1p/1PP1nk2/1p2pP1P/bp5P/Q1bn1rN1 w - - 0 1
+Found! 1.3
+4N1b1/PRB1p2p/2PP3b/2KppBPP/Nr1r1PpP/2R1Qpp1/np3Pk1/n6q w - - 0 1
+Found! 0.43
+bn1K4/1B1RNp1P/1p2r1p1/2P2P1Q/1RpP3p/BPb2pn1/1P1pP1Pp/4rkNq w - - 0 1
+Found! 0.75
+2N3N1/np2pBK1/1P2P3/1RrPpbPP/p3p2P/bQ2qnk1/pPp1Pr1p/3RB3 w - - 0 1
+Found! -0.61
+2r1b1K1/2nR1pBP/pN2pb2/QpRp2pP/3nBP2/2qPP1PP/1N1Ppp2/r5k1 w - - 0 1
+Found! -0.95
+4r3/n2P1B1n/RNP2QPR/1pKNP3/1p2bPp1/pP1pB1P1/pqP2ppb/1k4r1 w - - 0 1
+Found! 0.37
+1R4N1/np1BP1pp/PP3Q1p/KRbP2B1/1n2ppPN/Pp3p2/P1bPkr2/rq6 w - - 0 1
+Found! 0.43
+nQ6/1B3P1p/PpNr3P/2p1R1pP/Kp2bP1b/1p2pp1P/1RP1N1qP/1rBnk3 w - - 0 1
+Found! 0.23
+7n/Pr2Np1B/PRKp4/2NnPpQp/rpP5/PR3PPp/p2qbPkp/2B3b1 w - - 0 1
+Found! 0.96
+KQ6/pPBppNbn/7N/r3PPpP/2n4R/1ppPP1p1/pk2P1qP/1r1b2RB w - - 0 1
